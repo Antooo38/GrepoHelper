@@ -52,7 +52,7 @@ Select a perfect city state template and apply it to 100+ cities in one click in
 Automatically conducts Academy research according to your predefined research queue. The bot checks for available research points and initiates new research when resources are sufficient.
 
 **Key Features:**
-- Continuous Academy advancement
+- Automatically research in cities all technologies that you added in bot queue
 - Research point validation
 - Priority-based research queue
 - Resource management
@@ -116,7 +116,7 @@ Advanced coordination system for planning and executing complex attack strategie
 **Category:** Combat & Military  
 **Priority:** High
 
-Automatically detects incoming Colony Ship attacks and sends counter-units from your cities to destroy them before conquest.
+Bot automatically detect if there is a colonisation ship in the attack. If feature is enabled, it automatically plan attacks from your other cities to snipe it.
 
 **Key Features:**
 - CS detection system
@@ -138,7 +138,7 @@ Automatically detects incoming Colony Ship attacks and sends counter-units from 
 Automatically attacks bandit camps. Configure minimum unit requirements and attack intervals to maintain a good rhythm while protecting your valuable troops.
 
 **Key Features:**
-- Automated bandit attacks
+- Automatically attack bandit camps when available, and store rewards in the inventory
 - Unit requirement checks
 - Attack interval management
 - Risk assessment

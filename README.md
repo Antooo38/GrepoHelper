@@ -34,17 +34,17 @@ GrepoHelper is the #1 premium **Grepolis bot** automation platform designed for 
 ## 🚀 Features
 
 ### 🏗️ Buildings & Infrastructure
-- **Auto-Build** - Smart construction queue management with resource validation
+- **Auto-Build** - automatically create or destroy buildings that you added in bot queue with resource validation
 - **Auto City Builder** - Apply perfect city templates to 100+ cities instantly
-- **Auto-Research** - Continuous Academy advancement automation
-- **Auto-Recruit** - Optimized unit production management
-- **Auto-Culture** - Maximize culture points automatically
+- **Auto-Research** - Automatically research in cities all technologies that you added in bot queue
+- **Auto-Recruit** - Add units to recruit in bot queue, bot will recruits them automatically when possible
+- **Auto-Culture** - Automatically organize Festivals, Olympic games, Victory Processions and Theater plays when possible
 
 ### ⚔️ Combat & Military
-- **Attack Planner** - Advanced coordination system for complex attack strategies
-- **Auto CS Destroyer** - Automatic Colony Ship detection and destruction
-- **Bandit Camp** - Automated bandit attacks with smart unit management
-- **Auto Dodge** - Intelligent defensive evasion system
+- **Attack Planner** - Attack Planner lets you plan attacks at a given time — and the bot will automatically send them for you.
+- **Auto CS Destroyer** - Bot automatically detect if there is a colonisation ship in the attack. If feature is enabled, it automatically plan attacks from your other cities to snipe it.
+- **Bandit Camp** - Automatically attack bandit camps when available, and store rewards in the inventory
+- **Auto Dodge** - Bot automatically detects incoming attacks, and move all your units before the attack arrives 24/7
 - **Auto Units Creator** - Advanced army building algorithms
 - **Auto Favor Farm** - Automated favor farming with Harpy/Manticore
 - **Auto Farm BP** - Battle points farming optimization
